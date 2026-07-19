@@ -14,6 +14,7 @@ console.log(b);
 console.log(typeof b);
 
 console.log(" ")
+console.log(" ")
 
 let c = true;
 console.log(!c);
